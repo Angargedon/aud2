@@ -1,0 +1,32 @@
+
+// the generic binary compare function
+// takes two generic void pointers reflecting the data stored in list nodes
+typedef int (*comparefunc_t)(void*, void*);
+
+/**
+ * Sorts a double linked list using the provided compare function.
+ * To sort the list, it is enough to only swap the data pointers of the nodes,
+ * not the nodes themselves.
+ * @param list a double linked list to sort
+ * @param cmp the function which compares the data
+ */
+void dlist_sort(dlist_t* list, comparefunc_t cmp);
+
+/**
+ * Inserts the given data into a sorted double linked list.
+ * @param list a SORTED double linked list
+ * @param data the data to be inserted at the right place,
+ * which means that it does not break the sorting.
+ * @param cmp the function which compares the data
+ */
+void dlist_insert_sorted(dlist_t* list, void* data, comparefunc_t cmp);
+
+/**
+ * Finds the given data in the list and return its index.
+ * @param list a SORTED double linked list to sort
+ * @param data the data to look for
+ * @param cmp the function which compares the data
+ * @return The index of the located data in the list or -1 if it was not found.
+ * If the list contains multiple nodes with equal data, the index of the first is returned.
+ */
+int dlist_find_sorted(dlist_t* list, void* data, comparefunc_t cmp);
