@@ -1,0 +1,439 @@
+<Data>
+ <Team>
+  <Player>
+   <Name>Frederik Roennow</Name>
+   <Birthday>4.8.1992</Birthday>
+   <TricotNr>1</TricotNr>
+  </Player>
+  <Name>1. FC Union Berlin</Name>
+  <Player>
+   <Name>Matheo Raab</Name>
+   <Birthday>18.12.1998</Birthday>
+   <TricotNr>31</TricotNr>
+  </Player>
+  <Trainer>Steffen Baumgart</Trainer>
+  <Player>
+   <Name>Danilho Doekhi</Name>
+   <Birthday>30.06.1998</Birthday>
+   <TricotNr>5</TricotNr>
+   <Goals>5</Goals>
+  </Player>
+  <Player>
+   <Name>Diogo Leite</Name>
+   <Birthday>23.1.1999</Birthday>
+   <TricotNr>4</TricotNr>
+  </Player>
+  <Player>
+   <Name>Leopold Querfeld</Name>
+   <Birthday>20.12.2003</Birthday>
+   <TricotNr>14</TricotNr>
+   <Goals>6</Goals>
+  </Player>
+  <Player>
+   <Name>Tom Rothe</Name>
+   <Birthday>29.10.2004</Birthday>
+   <TricotNr>15</TricotNr>
+   <Tore>1</Tore>
+  </Player>
+  <Player>
+   <Name>Josip Juranovic</Name>
+   <TricotNr>18</TricotNr>
+   <Birthday>16.8.1995</Birthday>
+  </Player>
+  <Player>
+   <Name>Christopher Trimmel</Name>
+   <TricotNr>28</TricotNr>
+   <Birthday>24.2.1987</Birthday>
+  </Player>
+  <Player>
+   <Name>Rani Khedira</Name>
+   <Birthday>27.1.1994</Birthday>
+   <TricotNr>8</TricotNr>
+   <Goals>5</Goals>
+  </Player>
+  <Player>
+   <Goals>1</Goals>
+   <Birthday>2.8.2004</Birthday>
+   <TricotNr>6</TricotNr>
+   <Name>Aljoscha Kemlein</Name>
+  </Player>
+  <Player>
+   <Name>Janik Haberer</Name>
+   <TricotNr>19</TricotNr>
+   <Birthday>2.4.1994</Birthday>
+  </Player>
+  <Player>
+   <Name>Andrej Ilic</Name>
+   <TricotNr>23</TricotNr>
+   <Birthday>03.04.2000</Birthday>
+   <Goals>7</Goals>
+  </Player>
+  <Player>
+   <Name>David Preu</Name>
+   <TricotNr>45</TricotNr>
+   <Birthday>26.10.2004</Birthday>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Woo-yeong Jeong</Name>
+   <TricotNr>11</TricotNr>
+   <Birthday>20.09.1999</Birthday>
+   <Goals>3</Goals>
+  </Player>
+  <Player>
+   <Name>Andras Schaefer</Name>
+   <TricotNr>13</TricotNr>
+   <Birthday>13.04.1999</Birthday>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Tim Starke</Name>
+   <TricotNr>21</TricotNr>
+   <Birthday>7.9.1996</Birthday>
+   <Goals>3</Goals>
+  </Player>
+  <Player>
+   <Name>Robert Skov</Name>
+   <TricotNr>24</TricotNr>
+   <Birthday>20.5.1996</Birthday>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Alex Kral</Name>
+   <TricotNr>33</TricotNr>
+   <Birthday>19.5.1998</Birthday>
+  </Player>
+  <Player>
+   <Name>Oliver Burke</Name>
+   <TricotNr>7</TricotNr>
+   <Birthday>7.4.1997</Birthday>
+   <Goals>6</Goals>
+  </Player>
+  <Player>
+   <Name>Livan Burcu</Name>
+   <TricotNr>9</TricotNr>
+   <Birthday>28.9.2004</Birthday>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Ilyas Ansah</Name>
+   <TricotNr>10</TricotNr>
+   <Birthday>008.011.2004</Birthday>
+   <Goals>7</Goals>
+  </Player>
+  <Player>
+   <Name>Dmytro Bogdanov</Name>
+   <TricotNr>30</TricotNr>
+   <Birthday>6.3.2007</Birthday>
+   <Goals>000</Goals>
+  </Player>
+ </Team>
+ <Team>
+  <Player>
+   <Name>Tjark Ernst</Name>
+   <Birthday>15.03.2003</Birthday>
+   <TricotNr>1</TricotNr>
+  </Player>
+  <Player>
+   <Name>Marius Gersbeck</Name>
+   <Birthday>20.06.1995</Birthday>
+   <TricotNr>35</TricotNr>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Tim Goller</Name>
+   <Birthday>26.1.2005</Birthday>
+   <TricotNr>43</TricotNr>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Marton Dardai</Name>
+   <Goals>0</Goals>
+   <Birthday>12.2.2002</Birthday>
+   <TricotNr>31</TricotNr>
+  </Player>
+  <Player>
+   <Name>Linus Gechter</Name>
+   <TricotNr>44</TricotNr>
+   <Goals>0</Goals>
+   <Birthday>27.2.2004</Birthday>
+  </Player>
+  <Player>
+   <Name>John Brooks</Name>
+   <Birthday>28.1.1993</Birthday>
+   <TricotNr>25</TricotNr>
+  </Player>
+  <Player>
+   <Name>Toni Leistner</Name>
+   <Birthday>19.8.1990</Birthday>
+   <TricotNr>37</TricotNr>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Deyovaisio Zeefuik</Name>
+   <Birthday>11.03.1998</Birthday>
+   <TricotNr>42</TricotNr>
+  </Player>
+  <Player>
+   <Name>Michal Karbownik</Name>
+   <Birthday>13.03.2001</Birthday>
+   <TricotNr>33</TricotNr>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Julian Eitschberger</Name>
+   <Birthday>5.3.2004</Birthday>
+   <TricotNr>2</TricotNr>
+   <Goals>2</Goals>
+  </Player>
+  <Player>
+   <Name>Pascal Klemens</Name>
+   <Birthday>23.02.2005</Birthday>
+   <TricotNr>41</TricotNr>
+   <Goals>01</Goals>
+  </Player>
+  <Player>
+   <Name>Paul Seguin</Name>
+   <Birthday>29.03.1995</Birthday>
+   <TricotNr>30</TricotNr>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Maurice Krattenmacher</Name>
+   <Birthday>11.08.2005</Birthday>
+   <TricotNr>14</TricotNr>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Kevin Sessa</Name>
+   <Birthday>06.07.2000</Birthday>
+   <TricotNr>8</TricotNr>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Boris Mamuzah Lum</Name>
+   <Birthday>02.10.2007</Birthday>
+   <TricotNr>21</TricotNr>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Michael Cuisance</Name>
+   <Birthday>16.08.1999</Birthday>
+   <TricotNr>10</TricotNr>
+   <Goals>2</Goals>
+  </Player>
+  <Player>
+   <Name>Diego Demme</Name>
+   <Birthday>21.11.1991</Birthday>
+   <TricotNr>6</TricotNr>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Fabian Reese</Name>
+   <Birthday>29.11.1997</Birthday>
+   <TricotNr>11</TricotNr>
+   <Goals>6</Goals>
+  </Player>
+  <Player>
+   <Name>Marten Winkler</Name>
+   <Birthday>31.10.2002</Birthday>
+   <TricotNr>22</TricotNr>
+   <Goals>3</Goals>
+  </Player>
+  <Player>
+   <Name>Sebastian Groenning</Name>
+   <Birthday>03.02.1997</Birthday>
+   <TricotNr>17</TricotNr>
+   <Goals>03</Goals>
+  </Player>
+  <Player>
+   <Name>Josip Brekalo</Name>
+   <Birthday>23.06.1998</Birthday>
+   <TricotNr>7</TricotNr>
+  </Player>
+  <Player>
+   <Name>Dawid Kownacki</Name>
+   <Birthday>14.03.1997</Birthday>
+   <TricotNr>9</TricotNr>
+   <Goals>3</Goals>
+  </Player>
+  <Player>
+   <Name>Luca Schuler</Name>
+   <Birthday>22.03.1999</Birthday>
+   <TricotNr>18</TricotNr>
+   <Goals>6</Goals>
+  </Player>
+  <Player>
+   <Name>Dion Ajvazi</Name>
+   <Birthday>10.02.2004</Birthday>
+   <TricotNr>29</TricotNr>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Leon Jensen</Name>
+   <Birthday>19.5.1997</Birthday>
+   <TricotNr>5</TricotNr>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Kennet Eichhorn</Name>
+   <Birthday>27.7.2009</Birthday>
+   <TricotNr>30</TricotNr>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Niklas Kolbe</Name>
+   <Birthday>27.12.1996</Birthday>
+   <TricotNr>27</TricotNr>
+  </Player>
+  <Player>
+   <Name>Tim Hoffmann</Name>
+   <Birthday>26.2.2005</Birthday>
+   <TricotNr>46</TricotNr>
+  </Player>
+  <Player>
+   <Name>Max Mustermann</Name>
+   <Birthday>31.2.2001</Birthday>
+   <TricotNr>99</TricotNr>
+   <Goals>999</Goals>
+  </Player>
+  <Trainer>Stefan Leitl</Trainer>
+  <Name>Hertha BSC</Name>
+ </Team>
+ <Team>
+  <Trainer>Vincent Kompany</Trainer>
+  <Name>FC Bayern Muenchen</Name>
+  <Player>
+   <Name>Manuel Neuer</Name>
+   <Birthday>27.3.1986</Birthday>
+   <TricotNr>1</TricotNr>
+  </Player>
+  <Player>
+   <Name>Sven Ulreich</Name>
+   <Birthday>3.8.1988</Birthday>
+   <TricotNr>26</TricotNr>
+  </Player>
+  <Player>
+   <Name>Jonas Urbig</Name>
+   <Birthday>8.8.2003</Birthday>
+   <TricotNr>40</TricotNr>
+  </Player>
+  <Player>
+   <Name>Leon Klanac</Name>
+   <Birthday>1.3.2007</Birthday>
+   <TricotNr>48</TricotNr>
+  </Player>
+  <Player>
+   <Name>Dayot Upamecano</Name>
+   <Birthday>27.10.1998</Birthday>
+   <TricotNr>2</TricotNr>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Minjae Kim</Name>
+   <Birthday>15.11.1996</Birthday>
+   <TricotNr>3</TricotNr>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Jonathan Tah</Name>
+   <Birthday>11.2.1996</Birthday>
+   <TricotNr>4</TricotNr>
+   <Goals>3</Goals>
+  </Player>
+  <Player>
+   <Name>Alphonso Davies</Name>
+   <Birthday>2.11.2000</Birthday>
+   <TricotNr>19</TricotNr>
+  </Player>
+  <Player>
+   <Name>Hiroki Ito</Name>
+   <Birthday>12.05.1999</Birthday>
+   <TricotNr>21</TricotNr>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Raphael Guerreiro</Name>
+   <Birthday>22.12.1993</Birthday>
+   <TricotNr>22</TricotNr>
+   <Goals>4</Goals>
+  </Player>
+  <Player>
+   <Name>Josip Stanisic</Name>
+   <Birthday>2.4.2000</Birthday>
+   <TricotNr>44</TricotNr>
+   <Goals>2</Goals>
+  </Player>
+  <Player>
+   <Name>Joshua Kimmich</Name>
+   <Birthday>08.02.1995</Birthday>
+   <TricotNr>6</TricotNr>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Leon Goretzka</Name>
+   <Birthday>06.02.1995</Birthday>
+   <TricotNr>8</TricotNr>
+   <Goals>3</Goals>
+  </Player>
+  <Player>
+   <Name>Jamal Musiala</Name>
+   <Birthday>26.02.2003</Birthday>
+   <TricotNr>10</TricotNr>
+   <Goals>4</Goals>
+  </Player>
+  <Player>
+   <Name>Tom Bischof</Name>
+   <Birthday>28.06.2005</Birthday>
+   <TricotNr>20</TricotNr>
+  </Player>
+  <Player>
+   <Name>Konrad Laimer</Name>
+   <Birthday>27.05.1997</Birthday>
+   <TricotNr>27</TricotNr>
+   <Goals>2</Goals>
+  </Player>
+  <Player>
+   <Name>Lennart Karl</Name>
+   <Birthday></Birthday>
+   <TricotNr>42</TricotNr>
+   <Goals>7</Goals>
+  </Player>
+  <Player>
+   <Name>Aleksandar Pavlovic</Name>
+   <Birthday>03.05.2004</Birthday>
+   <TricotNr>45</TricotNr>
+   <Goals>2</Goals>
+  </Player>
+  <Player>
+   <Name>Serge Gnabry</Name>
+   <Birthday>14.07.1995</Birthday>
+   <TricotNr>7</TricotNr>
+   <Goals>7</Goals>
+  </Player>
+  <Player>
+   <Name>Harry Kane</Name>
+   <Birthday>28.07.1993</Birthday>
+   <TricotNr>9</TricotNr>
+   <Goals>44</Goals>
+  </Player>
+  <Player>
+   <Name>Nicolas Jackson</Name>
+   <Birthday>20.06.2001</Birthday>
+   <TricotNr>11</TricotNr>
+   <Goals>5</Goals>
+  </Player>
+  <Player>
+   <Name>Luis Diaz</Name>
+   <Birthday>13.01.1997</Birthday>
+   <TricotNr>14</TricotNr>
+   <Goals>19</Goals>
+  </Player>
+  <Player>
+   <Name>Michael Olise</Name>
+   <Birthday>12.12.2001</Birthday>
+   <TricotNr>17</TricotNr>
+   <Goals>16</Goals>
+  </Player>
+ </Team>
+</Data>
